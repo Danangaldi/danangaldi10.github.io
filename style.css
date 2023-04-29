@@ -1,0 +1,12 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #82c6fa;
+}
+section {
+  padding-top: 5rem;
+}
+
+/* style slider */
+.carousel-item {
+  height: 630px;
+}
